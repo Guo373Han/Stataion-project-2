@@ -1,6 +1,7 @@
 # Python-TumoLabs-UFAT
 #projectS2
 
+
 import random     
 import sys
  
